@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "--------------------------------------------------------------------------------------------"
+echo "                  WELCOME TO RAYAN'S SCRIPT (LEARNING FILTERS MADE EASY FOR YOU)            "
+echo "--------------------------------------------------------------------------------------------"
+echo " "
+echo " "
+echo "Filters covered -"
+echo "1 - grep"
+echo "2 - cut"
+echo "3 - awk"
+echo "4 - "
