@@ -1,4 +1,4 @@
-# Leann about linux filters
+# Learn about linux filters
 
 - CUT
 - AWK
