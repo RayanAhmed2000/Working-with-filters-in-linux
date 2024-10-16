@@ -1,5 +1,6 @@
 # About
 - simply used to sort files
+```
 -n	Sort numerically
 -r	Sort in reverse order
 -k	Sort by a specific column or field
@@ -12,3 +13,4 @@
 -s	Stable sort (maintains relative order)
 -R	Sort lines randomly
 -V	Sort version numbers (e.g., file1.10)
+```
