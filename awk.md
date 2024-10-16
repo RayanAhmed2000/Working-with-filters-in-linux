@@ -16,7 +16,7 @@ cat alicebob.txt | awk -F ',' '{print $2}'
 ```
 - Search for a pattern (works like grep)
 ```
-cat alicebob.txt | awk '\30\'
+cat alicebob.txt | awk '/30/'
 ```
 - List out all the rows having age more than 25
 ```
