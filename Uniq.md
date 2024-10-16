@@ -43,7 +43,17 @@ hi
 how
 you
 ```
+# Options
+- uniq -c (counts the occurence of duplicates)
+- uniq -u (shows only unique vlaues)
+- uniq -d (shows only duplicate values)
+- uniq -i (ignores case)
 
+# Applications of Uniq
+- to filter logs and remove duplicate logs
+```
+cat logfile.txt | sort | uniq
+```
 
 
 
