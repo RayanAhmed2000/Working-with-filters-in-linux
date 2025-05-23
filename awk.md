@@ -26,3 +26,10 @@ cat alicebob.txt | awk '25<$2 {print $0}'
 ```
 cat alicebob.txt | awk '{sum+=$2} END  {print "Total=", sum} '
 ```
+
+
+# Practical Applications
+- extract logs of a specific date range from log file
+```
+awk '$1 >= "2025-05-20" && $1 <= "2025-05-22"' your_log_file.log
+```
